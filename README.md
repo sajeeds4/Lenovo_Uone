@@ -30,6 +30,7 @@ To modify your laptop’s **Product Name** or **Serial Number**, use the followi
 - **Change the Product Name (PN):**
   ```bash
   uone.nsh /PN "your_product_name"
+  uone.nsh /SN 0000000
 Replace "your_product_name" with the desired name.
 
 Change the Model Type Number (MTN) and Serial Number (SN):
